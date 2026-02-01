@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enhancing StyleGennie Wardrobe, a full-stack digital wardrobe app that utilizes $U^{2}$-Net for automated background removal2222.<br>Open-source projects involving Computer Vision, Deep Learning, or React Native mobile development.<br>Advanced deployment of FastAPI web APIs and optimizing real-time AI performance for wearables.<br>Deep Reinforcement Learning to explore how autonomous agents can optimize real-time decision-making in health tech.<br>Transitioning a Python-based ML model into a production-ready FastAPI web service.<br>While building StyleGennie, I realized that an AI can organize my wardrobe better than I ever could.
+Enhancing StyleGennie Wardrobe, a full-stack digital wardrobe app that automates background removal.Open-source projects involving Computer Vision, Deep Learning, or React Native mobile development.Advanced deployment of FastAPI web APIs and optimizing real-time AI performance for wearables.<br>Deep Reinforcement Learning to explore how autonomous agents can optimize real-time decision-making in health tech.<br>Transitioning a Python-based ML model into a production-ready FastAPI web service.<br>While building StyleGennie, I realized that an AI can organize my wardrobe better than I ever could.
 
 
 ## 🌐 Socials:
